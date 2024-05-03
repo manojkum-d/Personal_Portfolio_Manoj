@@ -61,8 +61,9 @@ const Main = () => {
                         repeat={Infinity}
                     />
                     <p className="py-4 text-gray-600 max-w-[70%] mx-auto">
-                        I&apos;m focused on building responsive front-end web applications while
-                        learning back-end technologies.
+                    Passionate and innovative software developer currently pursuing MCA at Christ University, 
+                    dedicated to tackling real-life projects. 
+                    Eager to contribute expertise in crafting impactful solutions.
                     </p>
                     
                     <div className="flex justify-between items-center max-w-[330px] mx-auto py-4">

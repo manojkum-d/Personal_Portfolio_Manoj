@@ -69,6 +69,7 @@ const Navbar = () => {
 							alt="/"
 							height="70"
 							width="70"
+							priority
 							className="cursor-pointer  pb-4"
 						/>
 					</a>

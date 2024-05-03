@@ -19,7 +19,7 @@ const About = () => {
 					<p className="py-2 text-gray-600">
 					I am Manoj Kumar D, a passionate and innovative software developer currently pursuing a Master&aspos;s in Computer Applications (MCA) at Christ University. With expertise in React, Express, MongoDB, Node.js, and Go Lang, 
 					I am committed to tackling real-life projects and crafting impactful solutions. My proactive approach is evident through my participation in multiple hackathons, 
-					where I secured 2nd place at St. Joseph University&apos;s national event, showcasing my ability to thrive in competitive environments.
+					where I secured 2nd place at St. Joseph University &apos;s national event, showcasing my ability to thrive in competitive environments.
 					</p>
 					<p className="py-2 text-gray-600">
 					My endeavors reflect a broader commitment to leveraging technology for societal betterment. 

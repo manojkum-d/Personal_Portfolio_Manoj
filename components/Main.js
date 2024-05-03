@@ -61,8 +61,7 @@ const Main = () => {
                         repeat={Infinity}
                     />
                     <p className="py-4 text-gray-600 max-w-[70%] mx-auto">
-                    Passionate and innovative software developer currently pursuing MCA at Christ University, 
-                    dedicated to tackling real-life projects. 
+                    Passionate and innovative software developer currently pursuing MCA at Christ University, dedicated to tackling real-life projects. 
                     Eager to contribute expertise in crafting impactful solutions.
                     </p>
                     

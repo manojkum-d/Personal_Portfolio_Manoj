@@ -6,7 +6,7 @@ import { BsPersonLinesFill } from "react-icons/bs";
 import { FaGithub, FaLinkedinIn } from "react-icons/fa";
 import { TypeAnimation } from 'react-type-animation';
 import Head from "next/head";
-import Image from "next/image"
+
 
 const Main = () => {
     const varients = {
@@ -98,7 +98,7 @@ const Main = () => {
                 </motion.div>
             </div>
             <div className="absolute bottom-0 left-0 w-full text-center mb-10">
-    		<Image src="../scroll-gif.gif" className="w-20 h-auto mx-auto" alt="Scroll GIF" />
+    		<img src="../scroll-gif.gif" className="w-20 h-auto mx-auto" alt="Scroll GIF" />
 			<span>Scroll Down</span>
 			</div>
             

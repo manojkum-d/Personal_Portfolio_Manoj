@@ -18,7 +18,6 @@ const Journey = () => {
         className="vertical-timeline-element--education"
         date="2023 - Present"
         iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
-        icon=""
       >
         <h3 className="vertical-timeline-element-title">MCA</h3>
         <h4 className="vertical-timeline-element-subtitle">Christ University</h4>
@@ -27,7 +26,6 @@ const Journey = () => {
         className="vertical-timeline-element--education"
         date="2020 - 2023"
         iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
-        icon=""
       >
         <h3 className="vertical-timeline-element-title">BCA</h3>
         <h4 className="vertical-timeline-element-subtitle">Kristu Jayanti College</h4>
@@ -37,7 +35,6 @@ const Journey = () => {
         className="vertical-timeline-element--education"
         date="2018 - 2020"
         iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
-        icon=""
       >
         <h3 className="vertical-timeline-element-title">12th</h3>
         <h4 className="vertical-timeline-element-subtitle">CMR National Pu College</h4>

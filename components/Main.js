@@ -37,7 +37,7 @@ const Main = () => {
             <div className="max-w-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center">
                 <motion.div initial="hidden" animate="visible" variants={varients}>
                     <p className="uppercase text-sm tracking-widest text-gray-600">
-                        Let's Build Something Together
+                        Let&apos;s Build Something Together
                     </p>
                     <h1 className="py-4 text-gray-700">
                         Hi, I&apos;m <span className="text-[#1E90FF]">Manoj</span>

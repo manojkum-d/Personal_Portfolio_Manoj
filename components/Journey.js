@@ -10,7 +10,7 @@ const Journey = () => {
     <p className="text-xl tracking-widest uppercase text-[#1E90FF]" >
 					Education
 				</p>
-        <h2 className="py-4">What's My Qualification</h2>
+        <h2 className="py-4">What&apos;s My Qualification</h2>
         </div>
   
     <VerticalTimeline>

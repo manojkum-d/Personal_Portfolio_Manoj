@@ -6,6 +6,7 @@ import { BsPersonLinesFill } from "react-icons/bs";
 import { FaGithub, FaLinkedinIn } from "react-icons/fa";
 import { TypeAnimation } from 'react-type-animation';
 import Head from "next/head";
+import Image from "next/image"
 
 const Main = () => {
     const varients = {
@@ -39,20 +40,20 @@ const Main = () => {
                         Let's Build Something Together
                     </p>
                     <h1 className="py-4 text-gray-700">
-                        Hi, I'm <span className="text-[#1E90FF]">Manoj</span>
+                        Hi, I&apos;m <span className="text-[#1E90FF]">Manoj</span>
                     </h1>
                     <TypeAnimation
                         sequence={[
                             'Web developer',
-                            1000,
+                            500,
                             'Software Engineer',
-                            1000,
+                            500,
                             'Frontend Developer',
-                            1000,
+                            500,
                             'Backend Developer',
-                            1000,
+                            500,
                             'Freelancer',
-                            1000,
+                            500,
                         ]}
                         wrapper="span"
                         speed={50}
@@ -60,7 +61,7 @@ const Main = () => {
                         repeat={Infinity}
                     />
                     <p className="py-4 text-gray-600 max-w-[70%] mx-auto">
-                        I'm focused on building responsive front-end web applications while
+                        I&apos;m focused on building responsive front-end web applications while
                         learning back-end technologies.
                     </p>
                     
@@ -97,7 +98,7 @@ const Main = () => {
                 </motion.div>
             </div>
             <div className="absolute bottom-0 left-0 w-full text-center mb-10">
-    		<img src="../scroll-gif.gif" className="w-20 h-auto mx-auto" alt="Scroll GIF" />
+    		<Image src="../scroll-gif.gif" className="w-20 h-auto mx-auto" alt="Scroll GIF" />
 			<span>Scroll Down</span>
 			</div>
             

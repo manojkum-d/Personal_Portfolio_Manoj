@@ -35,7 +35,7 @@ const FitGenius = () => {
 					<p>
 					
 FitGenius, a personalized fitness and nutrition companion application, emerged victorious at a 24-hour national-level hackathon hosted by St. Joseph University. With an extensive library boasting over
- 850 workouts and personalized diet plans, it's designed to cater to users' individual health goals. Features include detailed workout descriptions, instructional videos for proper form, and advanced algorithms 
+ 850 workouts and personalized diet plans, it&apos;s designed to cater to users&apos; individual health goals. Features include detailed workout descriptions, instructional videos for proper form, and advanced algorithms 
  generating personalized diet recommendations based on fitness goals, body composition, and dietary preferences. The platform also offers comprehensive tools like calorie calculators, meal planners, and progress trackers, 
  empowering users to monitor their fitness journey effectively. Additionally, an AI-powered chatbot provides personalized guidance and motivation, while cutting-edge AI technology enables food calorie detection and analysis simply by taking a photo. 
  Integration with OpenCV ensures real-time form detection during workouts, 

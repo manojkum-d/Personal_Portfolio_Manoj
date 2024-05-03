@@ -17,23 +17,15 @@ const About = () => {
 						get a bit better every day.
 					</p>
 					<p className="py-2 text-gray-600">
-						I have always had a knack for technology and working with computers.
-						Fascinated with how intricate programming can be I was quickly drawn
-						to learn more. I started learning javascript and was even more
-						enthused with making websites interactive.
+					I am Manoj Kumar D, a passionate and innovative software developer currently pursuing a Master&aspos;s in Computer Applications (MCA) at Christ University. With expertise in React, Express, MongoDB, Node.js, and Go Lang, 
+					I am committed to tackling real-life projects and crafting impactful solutions. My proactive approach is evident through my participation in multiple hackathons, 
+					where I secured 2nd place at St. Joseph University&apos;s national event, showcasing my ability to thrive in competitive environments.
 					</p>
 					<p className="py-2 text-gray-600">
-						I’m very dedicated to learn new things and to truly believe that you
-						should never stop learning. I enjoy creating different things,
-						whether that be websites, application or anything in between.
-					</p>
-					<p className="py-2 text-gray-600">
-						I’m always looking for new opportunities to expand my understanding
-						of web design and development, so you’ll generally find me sipping a
-						delicious cup of coffee with my nose in a good “technical” book or
-						plugged into my laptop drooling over all of the beauty the web has
-						to offer. I hope to join a team of talented individuals I can learn
-						from and build engaging digital experiences with.
+					My endeavors reflect a broader commitment to leveraging technology for societal betterment. 
+					Whether through developing innovative solutions or participating in impactful projects, I aim to contribute meaningfully to the software development field. 
+					With a passion for continuous learning and a drive to make a difference,
+					 I am poised to tackle future challenges and drive positive change through technology.
 					</p>
 					<Link href="/#projects">
 						<p className="py-2 text-gray-600 underline cursor-pointer">

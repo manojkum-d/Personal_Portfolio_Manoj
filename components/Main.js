@@ -60,7 +60,7 @@ const Main = () => {
                         className="py-2 font-bold text-gray-700 text-4xl sm:text-5xl md:text-6xl font-[Raleway]"
                         repeat={Infinity}
                     />
-                    <p className="py-4 text-gray-600 max-w-[70%] mx-auto">
+                    <p className="py-4 text-gray-600 max-w-[80%] mx-auto text-center">
                     Passionate and innovative software developer currently pursuing MCA at Christ University, dedicated to tackling real-life projects. 
                     Eager to contribute expertise in crafting impactful solutions.
                     </p>

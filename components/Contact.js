@@ -18,13 +18,14 @@ const Contact = () => {
 
 					<div className="col-span-3 lg:col-span-2 w-full h-full shadow-xl shadow-gray-400 rounded-xl p-4">
 						<div className="lg:p-4 h-full">
-							<div className="h-[70vh] rounded-xl hover:scale-105 ease-in duration-300">
+							<div className=" desktop-only h-[70vh] rounded-xl hover:scale-105 ease-in duration-300">
 								{/* <Image
 									className="rounded-xl hover:scale-105 ease-in duration-300"
 									src={contactImg}
 									alt="/"
 								/> */}
-								<Spline scene="https://prod.spline.design/HYSplE2T-pNK2Cu1/scene.splinecode" className="rounded-xl" />
+									<Spline scene="https://prod.spline.design/HYSplE2T-pNK2Cu1/scene.splinecode" className="rounded-xl" />
+								
 							</div>
 							<div>
 								<h2 className="py-2">Manoj Kumar D</h2>

@@ -49,3 +49,9 @@ html {
 	}
 }
 
+@media (max-width: 767px) {
+	.desktop-only {
+	  display: none;
+	}
+  }
+  

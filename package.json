@@ -19,6 +19,7 @@
 		"lucide-react": "^0.372.0",
 		"next": "^12.3.4",
 		"polished": "^4.3.1",
+		"portfolio-nextjs": "file:",
 		"react": "^18.2.0",
 		"react-dom": "18.2.0",
 		"react-icons": "^4.12.0",

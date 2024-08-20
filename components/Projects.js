@@ -3,6 +3,7 @@ import ProjectItem from "./ProjectItem";
 import guidedImg from "../public/assets/projects/guided.png";
 import sanjeevniImg from "../public/assets/projects/sanjeevni-setu.png";
 import fitgenuisLogo from "../public/assets/projects/fitgenius-banner.png";
+import microLogo from "../public/assets/projects/micro.png";
 
 import blindImg from "../public/assets/projects/blind1.png";
 
@@ -38,6 +39,12 @@ const Projects = () => {
             backgroundImg={blindImg}
             projectUrl="/blind"
             tech="Andriod App | Kotlin"
+          />
+          <ProjectItem
+            title="Delivery Microservice"
+            backgroundImg={microLogo}
+            projectUrl="/microservicespro"
+            tech="Node Js | RabbitMQ | MongoDB"
           />
         </div>
       </div>
